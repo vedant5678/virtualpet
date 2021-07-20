@@ -1,1 +1,1 @@
-# virtualpet
+# 36-template
